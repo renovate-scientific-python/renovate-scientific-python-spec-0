@@ -30,7 +30,8 @@
 }
 ```
 
-NOTE: Renovate won't separate PRs for minor updates which major version is different from the current one due to its malfunction. You need to manually create a PR for `(next-major-version).0.0`.
+- Renovate won't separate PRs for minor updates which major version is different from the current one due to its malfunction. You need to manually create a PR for `(next-major-version).0.0`, and moreover may get no PR due to all of them being "pending".
+- Renovate won't provide a way to drop support which release is older than specific age. Therefore we assume that Python versions are incremented yearly and core package versions are incremented frequently.
 
 ## Details
 
