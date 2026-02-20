@@ -5,7 +5,7 @@
 ```json
 {
   "extends": [
-    "github>34j/renovate-scientific-python-spec-0"
+    "github>renovate-scientific-python/renovate-scientific-python-spec-0"
   ]
 }
 ```
@@ -15,7 +15,7 @@
 ```json
 {
   "extends": [
-    "github>34j/renovate-scientific-python-spec-0:python"
+    "github>renovate-scientific-python/renovate-scientific-python-spec-0:python"
   ]
 }
 ```
@@ -25,7 +25,7 @@
 ```json
 {
   "extends": [
-    "github>34j/renovate-scientific-python-spec-0:core-packages"
+    "github>renovate-scientific-python/renovate-scientific-python-spec-0:core-packages"
   ]
 }
 ```

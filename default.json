@@ -1,6 +1,6 @@
 {
   "extends": [
-    "github>34j/renovate-scientific-python-spec-0:python",
-    "github>34j/renovate-scientific-python-spec-0:core-packages"
+    "github>renovate-scientific-python/renovate-scientific-python-spec-0:python",
+    "github>renovate-scientific-python/renovate-scientific-python-spec-0:core-packages"
   ]
 }
