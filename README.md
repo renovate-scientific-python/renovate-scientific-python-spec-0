@@ -30,6 +30,8 @@
 }
 ```
 
+NOTE: Renovate won't separate PRs for minor updates which major version is different from the current one due to its malfunction. You need to manually create a PR for `(next-major-version).0.0`.
+
 ## Details
 
 From [SPEC 0 - Minimum Supported Dependencies][spec-0]:
