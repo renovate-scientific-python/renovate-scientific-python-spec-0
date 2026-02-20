@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "local>34j/renovate-scientific-python-spec-0:python",
+    "local>34j/renovate-scientific-python-spec-0:core-packages"
+  ]
+}

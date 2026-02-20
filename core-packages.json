@@ -1,0 +1,20 @@
+{
+  "packageRules": [
+    {
+      "matchPackageNames": [
+        "numpy",
+        "scipy",
+        "matplotlib",
+        "pandas",
+        "scikit-image",
+        "networkx",
+        "scikit-learn",
+        "xarray",
+        "ipython",
+        "zarr"
+      ],
+      "minimumReleaseAge": "2 years",
+      "rangeStrategy": "bump"
+    }
+  ]
+}

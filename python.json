@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+    {
+      "matchPackageNames": ["python"],
+      "rangeStrategy": "bump",
+      "minimumReleaseAge": "3 years",
+      "separateMultipleMinor": true
+    }
+  ]
+}
